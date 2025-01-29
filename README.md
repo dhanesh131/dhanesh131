@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhanesh Madavil
 
-Welcome to my GitHub profile! I'm a DevOps Engineer interested in Cloud automation technologies.
+Welcome to my GitHub profile! I'm a DevOps Engineer interested in Cloud automation & AI technologies.
 
 ## 🚀 About Me
 
